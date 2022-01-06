@@ -43,5 +43,5 @@ python Assignment-1/classify.py -m <model name> -i <input file> -o <outputfile>
 To run assignment-2 for classification
 
 ```bash 
-bash run.sh
+bash Assignment/run.sh
 ```
